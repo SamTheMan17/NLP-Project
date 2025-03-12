@@ -1,9 +1,7 @@
 # NLP-Project
 
-NLP PROJECT:
+Password Checker
 
-**Password Checker
-**
 
 Video Demo:
 https://github.com/user-attachments/assets/0f7c635c-5cbd-4eb5-b613-428b56b7edec
